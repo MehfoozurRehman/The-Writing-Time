@@ -1,33 +1,31 @@
 # The Writing Time
 
-A simple and elegant application designed to help you focus on writing. Use this project to track your writing sessions, set goals, and improve your productivity.
+A planned writing app for focused sessions with session tracking and word or time goals. The repository currently contains only this README, a license, editor settings and icon fonts.
 
-## Features
+**Status:** Stub. There is no `package.json` and no application source, so none of the features described here exist in the code.
 
-- Minimalist writing interface
-- Session tracking
-- Goal setting (word count, time, etc.)
-- Distraction-free mode
+## The problem
 
-## Getting Started
+The intent, as the README states, is to help a writer focus by tracking writing sessions and setting goals. The repository does not yet show any implementation of that.
 
-### Development
+## What it does
 
-```bash
-npm install
-npm run dev
-```
+Nothing runs yet. The repo contains:
 
-### Build
+- This README and an MIT license.
+- Editor settings in `.vscode`.
+- Font Awesome web font files in `public/fonts`.
 
-```bash
-npm run build
-```
+## How it's built
 
-## Author
+No stack can be confirmed from the code, because no `package.json` or source files are committed.
 
-Mehfooz-ur-Rehman
+## Running it locally
 
-## License
+The original install, dev and build commands cannot run against this repository, because there is no `package.json`.
 
-MIT
+## What's left
+
+- The whole application: the writing interface, session tracking, goal setting and the distraction-free mode listed in the original README.
+- A `package.json` with install, dev and build scripts.
+- Any source code and tests.
